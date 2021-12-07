@@ -51,4 +51,6 @@ int main() {
     else status = "UNFRIEND";
 
     cout << "Your status = " << status;
+
+    return 0;
 }
